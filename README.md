@@ -2,6 +2,8 @@
 
 ## Overview
 This Python program is designed to streamline the organization and management of ping pong tournaments. It allows users to input player names, assign matches, track scores, and maintain a leaderboard with real-time updates. The application leverages data structures, algorithms, and user interaction.
+See [ping_pong_tournament_manager.py] for full program.
+See [ping_pong_tournament_manager.ipynb] for usage example.
 
 ## Key Features
 
