@@ -6,15 +6,15 @@ This Python program is designed to streamline the organization and management of
 ## Key Features
 
 ### Custom Player Input
-- Users can create a personalized list of players for the tournament, ensuring a minimum of two players to start.
-- The program checks for duplicates, ensuring a unique player roster.
+- Users can create a personalized list of players for the tournament, securing a minimum of two players to start.
+- The program checks for duplicates, guaranteeing a unique player roster.
 
 ### Match Assignment
-- Matches are assigned automatically based on the number of games played by each player, promoting fair play.
+- Matches are assigned automatically based on the number of games played by each player, ensuring fair play.
 - Players are sorted by their game counts, ensuring that those who have played less frequently are prioritized for matches.
 
 ### Leaderboard Tracking
-- The leaderboard updates and displays player statistics, including wins, losses, points, and games played.
+- The leaderboard updates and displays player statistics, including wins, losses, points, and total games played.
 - This feature employs a dictionary data structure for efficient tracking of player performance.
 
 ### Dynamic Player Management
@@ -23,7 +23,7 @@ This Python program is designed to streamline the organization and management of
 
 ### Interactive Input
 - The program prompts users for input to manage matches, winners, and scores, with error handling to enhance the user experience.
-- Users can modify player rosters on-the-fly, allowing for greater flexibility during tournament play.
+- Users can modify the player roster on the fly, allowing for greater flexibility during real-life tournament play.
 
 ### Ongoing Match Overview
 - A live view of ongoing matches is provided, enabling easy score tracking and match completion.
@@ -37,10 +37,10 @@ This Python program is designed to streamline the organization and management of
 
 ### Functions and Logic
 - The program is modular, with specific functions handling player input, match assignment, score validation, and leaderboard updates.
-- Input validation is implemented to enhance robustness and prevent errors during tournament management.
+- Input validation is implemented to enhance robustness and prevent errors/quitting during tournament management.
 
 ### Score Tracking and Leaderboard Updates
-- The system updates scores and player statistics dynamically after each match, demonstrating the ability to handle real-time data changes.
+- The system updates scores and player statistics dynamically after each match.
 - A sorted leaderboard is displayed at the end of the tournament, showcasing the final standings of all players.
 
 ## Potential Enhancements
